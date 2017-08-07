@@ -1,0 +1,10 @@
+:local(.component) {
+  > rect {
+    fill: #771212;
+    transition: fill 100ms ease-in;
+
+    &:hover {
+      fill: #b71717;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+:local(.component) {
+  > .divider {
+    stroke: #b1b1b1;
+    stroke-width: 2;
+  }
+
+  > .indicator {
+    stroke: #b1b1b1;
+    stroke-width: 1;
+  }
+}

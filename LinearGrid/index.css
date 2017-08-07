@@ -1,0 +1,7 @@
+:local(.component) {
+  > line {
+    stroke: #ecf1d9;
+    stroke-width: 1;
+    stroke-dasharray: 4;
+  }
+}
